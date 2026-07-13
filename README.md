@@ -65,8 +65,7 @@ The dataset (`creditcard.csv`) contains **284,807 transactions** with 31 columns
    jupyter notebook Credit_Card_fraud_detection.ipynb
    ```
 
-> **Note:** This notebook currently loads the dataset from a local path (`C:\Users\Dell\Downloads\creditcard.csv`). To run it yourself, download `creditcard.csv` from this repo and update that path in the notebook to match where you've saved it on your machine.
-
+> **Note:** This notebook currently loads the dataset from a local path (`C:\Users\Dell\Downloads\creditcard.csv`). To run it yourself, download `creditcard.csv` from rom Kaggle and update that path in the notebook to match where you've saved it on your machine.
 ## Acknowledgements
 
 Dataset based on the [Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) originally released by the Machine Learning Group at ULB (Université Libre de Bruxelles) on Kaggle.
